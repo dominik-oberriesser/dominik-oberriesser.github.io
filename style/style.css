@@ -13,3 +13,7 @@ body {
     overflow:hidden;
     margin: 0 auto;
 }
+.badges {
+	text-align: left;
+	margin-top: 50px;
+	}
