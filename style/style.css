@@ -1,0 +1,15 @@
+body { 
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: verdana;
+    }
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 250px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    overflow:hidden;
+    margin: 0 auto;
+}
